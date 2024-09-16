@@ -58,3 +58,9 @@ An advanced and scalable e-commerce solution built using **Node.js**, **Express*
 - Complete order placement and tracking.
 
 ---
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mostafa7ahmed/ALL-API-E-Commerce-MEAN.git 
