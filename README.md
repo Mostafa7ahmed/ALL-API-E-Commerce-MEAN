@@ -1,4 +1,4 @@
-# Advanced E-Commerce Platform
+#  E-Commerce API 
 
 <img src="./MEAN-Stack.png" alt="E-commerce IMage " width="100%" />
 
