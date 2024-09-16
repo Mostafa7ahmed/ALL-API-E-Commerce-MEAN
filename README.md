@@ -1,6 +1,6 @@
 # Advanced E-Commerce Platform
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KQm4XrYYjbFiQ-wgHwCYwB1GRfeUbLjKtw&s" alt="E-commerce Platform Overview" width="100%" />
+<img src="./MEAN-stack-nodejs.png" alt="E-commerce Platform Overview" width="100%" />
 
 An advanced and scalable e-commerce solution built using **Node.js**, **Express**, **MongoDB**, and **TypeScript**. This platform offers comprehensive product management, shopping cart functionality, and a robust order handling system, delivering a seamless online shopping experience.
 
